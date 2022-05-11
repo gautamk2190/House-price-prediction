@@ -34,22 +34,22 @@
 
 ## Conclusions
 - R2 score using Ridge and Lasso
-    - Ridge- Train: 0.914459, Test: 0.874812
-    - Lasso- Train: 0.916170, Test: 0.875896
+    - Ridge- Train:-  0.914459, Test:-  0.874812
+    - Lasso- Train:-  0.916170, Test:-  0.875896
 
 - Ridge Model top5 predictor variable
-    - OverallQual_Excellent  0.370237
-    - OverallQual_Very Good  0.265409
-    - Neighborhood_NridgHt  0.253835
-    - Neighborhood_Crawfor  0.243177
-    - Neighborhood_Somerst  0.204905
+    - OverallQual_Excellent:-   0.370237
+    - OverallQual_Very Good:-   0.265409
+    - Neighborhood_NridgHt:-   0.253835
+    - Neighborhood_Crawfor:-   0.243177
+    - Neighborhood_Somerst:-   0.204905
 
 - Lasso Model top5 predictor variable
-    - OverallQual_Excellent  0.564182
-    - OverallQual_Very Good  0.328329
-    - Neighborhood_Crawfor  0.304465
-    - Neighborhood_NridgHt  0.292958
-    - Neighborhood_Somerst  0.248177
+    - OverallQual_Excellent:-   0.564182
+    - OverallQual_Very Good:-  0.328329
+    - Neighborhood_Crawfor:-   0.304465
+    - Neighborhood_NridgHt:-   0.292958
+    - Neighborhood_Somerst:-   0.248177
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
